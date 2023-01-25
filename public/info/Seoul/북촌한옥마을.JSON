@@ -1,0 +1,28 @@
+{
+  "name": "북촌한옥마을",
+  "id": 1,
+  "type": "볼거리",
+  "img": "../../image/북촌한옥마을.png",
+  "locate1": "서울",
+  "locate2": "서울특별시 종로구",
+  "address": "서울특별시 종로구 계동길 37",
+  "map": "https://map.naver.com/v5/entry/place/13034552?c=14134051.7349036,4520452.8184961,13,0,0,0,dh&placePath=%2Fhome&entry=plt",
+  "des": "가희동, 삼청동으로 이어지는 약 100m 구간의 한옥마을. 각종 뮤직비디오나 영화,드라마의 배경으로 쓰이기도 하며 이를 찾는 재미도 쏠쏠하다. 차분하게 산책데이트 하고싶은 커플들에게 추천! 엄연히 거주지역이므로 큰 소리는 내지 않도록 주의해주세요."
+  "park": [
+    {
+      "name": "정독도서관 주차장",
+      "address": "서울 종로구 북촌로5길 48",
+      "map": "https://map.naver.com/v5/entry/place/21893985?c=15,0,0,0,dh"
+    },
+    {
+      "name": "현대 계동사옥 주차장",
+      "address": "서울 종로구 율곡로 75 현대건설빌딩",
+      "map": "https://map.naver.com/v5/entry/place/35824188?c=15,0,0,0,dh"
+    },
+    {
+      "name": "경복궁 주차장",
+      "address": "서울 종로구 효자로 12",
+      "map": "https://map.naver.com/v5/entry/place/1245926760?c=15,0,0,0,dh"
+    }
+  ]
+}

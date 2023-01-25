@@ -1,0 +1,31 @@
+{
+  "name": "코엑스",
+  "id": 12,
+  "type": "즐길거리",
+  "img": "../../image/코엑스.png",
+  "locate1": "서울",
+  "locate2": "서울특별시 강남구",
+  "address": "서울특별시 강남구 영동대로 513",
+  "map": "https://naver.me/x6PAuQQH",
+  "des": "서울 강남구에 위치한 종합전시장. 코엑스 메가박스에만 있는 더 부티크관에서 특별한 경험을 해보는 것도 좋아요. 별마당도서관에서 여유로운 시간을 보내보는 것은 어떨까요? 다양한 컨셉의 포토존에서 인생샷을 건질지도 모르니 패션에 신경써보세요!"
+  "park": [
+    {
+      "name": "코엑스주차장",
+      "address": "서울 강남구 영동대로 513",
+      "map": "https://naver.me/xtWtZcGm"
+    },
+    {
+      "name": "영동대로106길 공영노상주차장",
+      "address": "서울 강남구 영동대로106길 33",
+      "map": "https://naver.me/FQau1Dhyhttps://naver.me/FQau1Dhy"
+    },
+    {
+      "name": "영동대로96길 공영노상주차장",
+      "address": "서울 강남구 영동대로96길 20",
+      "map": "https://naver.me/GRODru6Q"
+    }
+  ]
+}
+
+
+

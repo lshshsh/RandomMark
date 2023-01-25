@@ -1,0 +1,28 @@
+{
+  "name": "서울숲공원",
+  "id": 5,
+  "type": "즐길거리",
+  "img": "../../image/서울숲공원.png",
+  "locate1": "서울",
+  "locate2": "서울특별시 성동구",
+  "address": "서울특별시 성동구 뚝섬로 273",
+  "map": "https://naver.me/xC6ir63v",
+  "des": "서울특별시가 직영하는 서울의 대표 테마공원. 따릉이를 타고 거울연못, 한강 전망대 등의 낭만적인 분위기를 즐기며 데이트해보세요! 서울숲에서 뚝섬한강공원까지 자전거로 한 번에 즐길 수 있는 한강 드리밍 코스도 있어요. 사슴방사장에 있는 사슴들은 눈으로만 봐주세요!"
+  "park": [
+    {
+      "name": "서울숲 주차장",
+      "address": "서울 성동구 성수동1가 643",
+      "map": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EC%88%B2%EC%A3%BC%EC%B0%A8%EC%9E%A5/place/36003240?c=15,0,0,0,dh&placePath=%3Fentry%253Dpll"
+    },
+    {
+      "name": "갤러리아 포레 주차장",
+      "address": "서울 성동구 서울숲2길 32-14",
+      "map": "https://map.naver.com/v5/search/%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%95%84%20%ED%8F%AC%EB%A0%88%20%EC%83%81%EA%B0%80%20%EC%A3%BC%EC%B0%A8%EC%9E%A5/place/1771334129?c=15,0,0,0,dh&isCorrectAnswer=true"
+    },
+    {
+      "name": "디타워 상가 주차장",
+      "address": "서울 성동구 성수동1가 685-700",
+      "map": "https://map.naver.com/v5/search/%EB%94%94%ED%83%80%EC%9B%8C%EC%A3%BC%EC%B0%A8%EC%9E%A5/place/1934912453?c=15,0,0,0,dh&placePath=%3Fentry%253Dpll"
+    }
+  ]
+}

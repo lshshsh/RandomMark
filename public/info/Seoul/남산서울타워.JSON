@@ -1,0 +1,28 @@
+{
+  "name": "남산서울타워",
+  "id": 2,
+  "type": "볼거리",
+  "img": "../../image/남산서울타워.png",
+  "locate1": "서울",
+  "locate2": "서울특별시 용산구",
+  "address": "서울특별시 용산구 남산공원길 105",
+  "map": "https://map.naver.com/v5/entry/place/38345004?c=13,0,0,0,dh&placePath=%2Fhome&entry=plt",
+  "des": "남산 정상에 위치한 서울의 랜드마크. 케이블카를 타고 정상에 올라 전망대에서 서울의 전경을 내려다볼 수 있습니다. 러브터널, 프러포즈계단에서 마음을 고백하고 자물쇠로 영원한 사랑을 약속해보는건 어떨까요? OLED미디어아트나 3D WORLD 체험관도 색다른 체험이 될 수 있어요."
+  "park": [
+    {
+      "name": "남산동 공영주차장",
+      "address": "서울 중구 퇴계로 20길 24",
+      "map": "https://map.naver.com/v5/search/%EB%82%A8%EC%82%B0%EB%8F%99%20%EA%B3%B5%EC%98%81%EC%A3%BC%EC%B0%A8%EC%9E%A5/place/18694365?placePath=%3Fentry=pll%26from=nx%26fromNxList=true&c=15,0,0,0,dh"
+    },
+    {
+      "name": "남산케이블카 주차장",
+      "address": "서울 중구 회현동 1가 산 1-19",
+      "map": "https://map.naver.com/v5/entry/place/37758720?c=15,0,0,0,dh"
+    },
+    {
+      "name": "국립극장주차장",
+      "address": "서울 중구 장충단로 59",
+      "map": "https://map.naver.com/v5/search/%EA%B5%AD%EB%A6%BD%EA%B7%B9%EC%9E%A5%20%EC%A3%BC%EC%B0%A8%EC%9E%A5/place/35823881?c=15,0,0,0,dh&placePath=%3Fentry%253Dpll"
+    }
+  ]
+}

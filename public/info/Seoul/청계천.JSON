@@ -1,0 +1,29 @@
+{
+  "name": "청계천",
+  "id": 9,
+  "type": "볼거리",
+  "locate1": "서울",
+  "locate2": "서울특별시 종로구",
+  "address": "서울특별시 종로구 창신동",
+  "map": "https://naver.me/FLBKTWSB",
+  "des": "총 길이 10.84km의 서울의 역사를 상징하는 하천. 광장시장에서 DDP까지 하천길을 따라 15분이면 도착해요. 다리 아래에서 하는 버스킹을 관람하는 것도 별미! 하천을 따라 산책하며 자연환경을 구경하다보면 어느새 멀리 가버릴 수 있으므로 대중교통 추천합니다."
+  "park": [
+    {
+      "name": "한국관광공사옆 노상 공영 주차장",
+      "address": "서울 중구 다동 85-3",
+      "map": "https://naver.me/FslohlrS"
+    },
+    {
+      "name": "청계2가 노상 공영주차장",
+      "address": "서울 종로구 관철동 37-7",
+      "map": "https://naver.me/xJNqnUqv"
+    },
+    {
+      "name": "세운상가밑노상공영주차장",
+      "address": "서울 종로구 장사동 116-3",
+      "map": "https://naver.me/GvkXrwbP"
+    }
+  ]
+}
+
+

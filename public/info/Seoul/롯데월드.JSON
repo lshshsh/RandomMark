@@ -1,0 +1,25 @@
+{
+  "name": "롯데월드",
+  "id": 6,
+  "type": "즐길거리",
+  "img": "../../image/롯데월드.png",
+  "locate1": "서울",
+  "locate2": "서울특별시 송파구",
+  "address": "서울특별시 송파구 올림픽로 240",
+  "map": "https://naver.me/GcjWj39F",
+  "des": "송파구에 위치한 모험과 신비의 나라!  실내와 실외 파크로 나누어져 있으므로 추위,더위 걱정없이 즐길 수 있어요. 매직패스를 잘 활용해서 기다림없이 즐길 수도 있어요! 주기적으로 진행되는 퍼레이드도 놓치면 안되겠죠? 할로윈데이나 크리스마스 같은 특정 기간에는 특별행사도 진행돼요. "
+  "park": [
+    {
+      "name": "롯데월드주차장",
+      "address": "서울 송파구 올림픽로 240",
+      "map": "https://map.naver.com/v5/entry/place/36046353?c=15,0,0,0,dh"
+    },
+    {
+      "name": "롯데월드 어드벤처주차장",
+      "address": "서울 송파구 올림픽로 240",
+      "map": "https://map.naver.com/v5/search/%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C%20%EC%96%B4%EB%93%9C%EB%B2%A4%EC%B2%98%EC%A3%BC%EC%B0%A8%EC%9E%A5/place/18848197?c=15,0,0,0,dh&placePath=%3Fentry%253Dpll"
+    }  
+  ]
+}
+
+

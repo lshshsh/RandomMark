@@ -1,0 +1,29 @@
+{
+  "name": "경복궁",
+  "id": 3,
+  "type": "볼거리",
+  "img": "../../image/경복궁.png",
+  "locate1": "서울",
+  "locate2": "서울특별시 종로구",
+  "address": "서울특별시 종로구 사직로 161",
+  "map": "https://naver.me/FLBKTWSB",
+  "des": "조선시대 건축물 중 가장 오래된 궁궐. 한복을 입고 연인과 한복데이트를 즐겨보는 것도 별미! 야간관람시 또다른 경복궁의 매력을 느낄 수 있어요. 특정한 시기에는 각종 행사도 진행되므로 특별한 경험을 보장합니다. 매주 화요일은 휴궁일이니 관람에 유의하세요!"
+  "park": [
+    {
+      "name": "경복궁 주차장",
+      "address": "서울 종로구 효자로 12",
+      "map": "https://map.naver.com/v5/search/%EA%B2%BD%EB%B3%B5%EA%B6%81%20%EC%A3%BC%EC%B0%A8%EC%9E%A5/place/1245926760?c=14,0,0,0,dh&placePath=%3Fentry%253Dpll"
+    },
+    {
+      "name": "국립현대미술관 서울관 주차장",
+      "address": "서울 종로구 삼청로 30",
+      "map": "https://map.naver.com/v5/entry/place/346495673?c=14,0,0,0,dh"
+    },
+    {
+      "name": "국립극장주차장",
+      "address": "서울 종로구 자하문로4길 6 우진빌딩",
+      "map": "https://map.naver.com/v5/entry/place/35824139?c=14,0,0,0,dh"
+    }
+  ]
+}
+
